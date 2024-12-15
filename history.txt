@@ -1,0 +1,257 @@
+    1  ssh-i~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+    2  ssh -i ~/.ssh/id_ed25519 ec2-user@limux.itcareerhub.de
+    3   ssh-i ~/.ssh/id_ed25519 ec2-user@limux.itcareerhub.de
+    4   ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+    5  ssh - kegel
+    6  clear
+    7  vi /tmp/file.txt
+    8  clear
+    9  vi /tmp/file.txt
+   10  [200~ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de~
+   11  $ ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de~
+   12  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de~
+   13  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   14  ls -la ~/.ssh
+   15   ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   16   ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   17  cd /tmp
+   18  vi file.txt
+   19   ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   20  clear
+   21  touch /tmp/file.txt
+   22  vi /tmp/file.txt
+   23  ls -la
+   24  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   25  git config --global user.name "Tetiana-Rybko"
+   26  git config --global user.email "tanyarybko28@gmail.com"
+   27  git config --list
+   28  pwd
+   29  mkdir ~/test
+   30  git init
+   31  ls -la
+   32  git.add file.txt
+   33  git.add:test
+   34  git.add: file.txt
+   35  git.add:file.txt
+   36  mkdir ~/test.txt
+   37  git init
+   38  ls -la
+   39  git.add test.txt
+   40  git.add: test.txt
+   41  git status
+   42  git status
+   43  mkdir ~/git_intro1
+   44  cd git_intro1
+   45  git init
+   46  ls -la
+   47  touch file.txt
+   48  ls -la
+   49  git add file.txt
+   50  git status
+   51  git comit -m "Addad photo"
+   52  git status
+   53  git branch -M main
+   54  git remote add origin https://github.com/Tetiana-Rybko/git_intro1.git
+   55  git push -u origin main
+   56  git remote add origin https://github.com/Tetiana-Rybko/git_intro1.git
+   57  git push -u origin main
+   58  git push -u origin 
+   59  mkdir git_intro
+   60  cd git_intro
+   61  git init
+   62  /c/Users/ICH/Desktop/Betka.jpg
+   63  git add git_intro
+   64  git commit -m "Added photo"
+   65  git branch -M main
+   66  git remote add origin git@github.com:https://github.com/Tetiana-Rybko/git_into.git
+   67  git push -u origin main
+   68  git remote add origin https://github.com/Tetiana-Rybko/git_into.git
+   69  git push -u origin main
+   70  git push -u origin
+   71  mkdir git_intro2
+   72  cd git_intro2
+   73  git init
+   74  git add git_intro2
+   75  git status
+   76  git commit -m "Added photo"
+   77  git branch -M main
+   78  git remote add origin https://github.com/Tetiana-Rybko/git_intro2.git
+   79  git puch -u origin main
+   80  clear
+   81  clear
+   82  touch git_intro
+   83  mkdir git_intro
+   84  cd git_intro
+   85  git init
+   86  git add epigramma.jpg
+   87  git add .
+   88  git status
+   89  git commit -m "Added photo"
+   90  git branch -M main
+   91  git remote add origin https://github.com/Tetiana-Rybko/git_intro.git
+   92  git puch -u origin main
+   93  git push -u origin main
+   94  clear
+   95  pouch myfirstbachscript.sh
+   96  wi  myfirstbachscript.sh
+   97  clear
+   98  mkdir  myfirstbachscript.sh
+   99  vi
+  100  mkdir myfirstbachscript
+  101  vi
+  102  touch myfirstbachscript.sh
+  103  chmod +x  myfirstbachscript.sh
+  104  ls -la
+  105  vi
+  106  .myfirstbashscript.sh
+  107  ./myfirstbashscript.sh
+  108  bash myfirstbashscript.sh
+  109  cd git_ignor2/
+  110  clon https://github.com/Tetiana-Rybko/bashscripts.git
+  111  klon https://github.com/Tetiana-Rybko/bashscripts.git
+  112  pwd
+  113  clear
+  114  git clone https://github.com/Tetiana-Rybko/git-bransh.git
+  115  cd git bransh/
+  116  [200~ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de~
+  117  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+  118  vimtutor
+  119  touch myfirstbachscript.sh
+  120  clear
+  121  touch  myfirstbachscript.sh
+  122  chmod +x  myfirstbachscript.sh
+  123  wim myfirstbachscript.sh
+  124  vim myfirstbachscript.sh
+  125  ./myfirstbachscript.sh
+  126  clear
+  127  git clone https://github.com/igor122342143256376/repo_13.git
+  128  git clon https://github.com/Tetiana-Rybko/repo_13.git
+  129  cd~
+  130  cd ~
+  131  git clon https://github.com/Tetiana-Rybko/repo_13.git
+  132  git clone https://github.com/Tetiana-Rybko/repo_13.git
+  133  date >> Readme.md
+  134  ls -la
+  135  pwd
+  136  /c/Users/ICH/repo_13
+  137  cd repo_13
+  138  ls -la
+  139  ~/repo_13/README.md
+  140  ls -la
+  141  vim README.md
+  142   date >> Readme.md
+  143  git status
+  144   ~/repo_13/README.md
+  145  date >>  README.md
+  146   git checkout -b feature/add-date-to-readme
+  147   git checkout -b feature/add-date-to-readme
+  148  git checkout -b feature/add-date-to-readme
+  149   git checkout -b feature/add-date-to-readme
+  150  git commit -m
+  151  git checkout -b featur/add-date-to-README
+  152  git add README.md
+  153  git commit -m
+  154  git commit -m "current date added in README.md
+  155  git push origin feature/add-date-to-readme
+  156  git push origin feature/add-date-to-README.md
+  157  ls -la
+  158  pwd
+  159  ~cd
+  160  git checkout -b feature/add-date-to-readme
+  161  git add README.md
+  162  git commit -m "D D in README"
+  163  end
+  164  pwd
+  165  git clone https://github.com/Tetiana-Rybko/repo_13.git
+  166  /c/User/ICH/repo_13
+  167  /c/User/ICH/repo_13.git
+  168  cd/User/ICH/projects/my-repository
+  169  cd/home/User/ICH/github.com/Tetiana-Rybko/repo_13.git
+  170  cd repo_13
+  171  pwd
+  172  nano README.md
+  173  git add README.md
+  174  git commit -m "Добавленна текущая дата в README.md"
+  175  git push origin feature-branch
+  176   git push origin featur-branch
+  177  git branch
+  178  git push origin featur/add-date-to-README
+  179  clear
+  180  pwd
+  181  cd~
+  182  ~cd
+  183  clear
+  184  touch myfirstbashscript.sh
+  185  nano myfirstbashscript.sh
+  186  chmod +x myfirstbashscript.sh
+  187  ./myfirstbashscript.sh
+  188  mv myfirstbashscript.sh myfirstbashscript.txt
+  189  mkdir git-branch
+  190  cd git-branch
+  191  git init
+  192  git checkout -b gitignore
+  193  nano .gitignore
+  194  git add .gitignore
+  195  git commit -m "Добавлен файл .gitignore"
+  196  git remote add origin https://github.com/Tetiana-Rybko/git-branch.git
+  197  git push -u origin gitignore
+  198  clea
+  199  clear
+  200  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+  201  git clone https://github.com/Tetiana-Rybko/my-repo1.git
+  202  git checkout -b featur
+  203  echo "# My Project" > README.md
+  204  echo "*.tmp >> .gitignore
+  205  git add README.md .gitignore
+  206  git comit -m "Add README and update .gitignore"
+  207  git push origin feature
+  208  clear
+  209  clear
+  210  cd
+  211  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+  212  git clone <[200~Создайте новый репозиторий GitHub. Добавьте в него файл .gitignore 
+  213  Склонируйте этот репо на свой компьютер с использованием созданного удаленного репозитория.
+  214  Создайте новую ветку с именем feature, внесите в неё несколько изменений в файлах (должно быть 2 файла:  README.md и .gitignore) и закоммитьте их.
+  215  Запушьте эти изменения в удаленный репо.  (убедитесь, что ветка feature появилась в Github)
+  216  Воспользуйтесь командой git commit --amend, чтобы изменить сообщение  к последнему коммиту в ветке feature , добавив в сообщение слово ammend
+  217  Переключитесь на ветку main и выполните git merge feature, чтобы объединить ветку feature с main
+  218  Создайте текстовый файл и допишите в него команды из истории команд (history > history.txt), выполните commit с этим файлом и запушьте его в ветку main.
+  219  ~clear
+  220  cler
+  221  clear
+  222  git clone <https://github.com/Tetiana-Rybko/my-repo.git>
+  223  cd my-repo
+  224  clear
+  225  git clone <https://github.com/Tetiana-Rybko/my-repo.git> cd my-repo
+  226  cd ~/projects
+  227  clear
+  228  ls -la
+  229  git clone https://github.com/Tetiana-Rybko/my-repo.git
+  230  cd C:\Projects
+  231  clear
+  232  git clone https://github.com/Tetiana-Rybko/my-repo.git 
+  233  cd https://github.com/Tetiana-Rybko/my-repo.git
+  234  git clone https://github.com/Tetiana-Rybko/my-repo.git
+  235  clear
+  236  git clone https://github.com/Tetiana-Rybko/my-repo.git
+  237  cd ~/my-repo.git
+  238  rm -rf my-repo
+  239  clear
+  240  git clone $ git clone https://github.com/Tetiana-Rybko/my-repo.git
+  241  clear
+  242  git clone https://github.com/Tetiana-Rybko/my-repo.git
+  243  cd Tetiana-Rybko/my-repo
+  244  cd my-repo
+  245  git checkout -b feature
+  246  echo "initial README content" > README.md
+  247  echo "*log" > gitignore
+  248  git add .
+  249  git commit -m
+  250  git commit -m "README.md"
+  251  git puch -u origin feature
+  252  git push -u origin feature
+  253  git commit --amend -m "Добавлены файлы README.md и .gitignore (amend)"
+  254  git push --force
+  255  git merge feature
+  256  git push
+  257  history > history.txt
